@@ -51,7 +51,7 @@
 <a href="https://twitter.com/iamFaseelAli">
   <img align="left" alt="Faseel Ali | Twitter" width="40px" height="40px" src="https://github.com/faseelali/faseelali/blob/main/Icons/icons8-twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/faseel-ali">
+<a href="https://www.linkedin.com/in/faseel-ali">
   <img align="left" alt="Faseel Ali | Linkedin" width="40px" height="40px"  src="https://github.com/faseelali/faseelali/blob/main/Icons/icons8-linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_faseel___/">
