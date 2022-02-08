@@ -8,7 +8,6 @@
 - 💬 Ask me about anything related Tech 🤖
 - 📫 How to reach me: faseelaliam@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Music composers are underrated 🤷‍♂️
 
 
 <br/> 
