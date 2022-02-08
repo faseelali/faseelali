@@ -11,9 +11,38 @@
 - ⚡ Fun fact: Music composers are underrated 🤷‍♂️
 
 
-<br/>
+<br/> 
 
 ## 🤖 Language and Tools:
 
   
+<p align="left">
+<code><img height="40" src="https://github.com/faseelali/faseelali/blob/27dcd1b39798a39cd810ed8a201c525374edae68/Icons/icons8-kotlin.svg"></code>
+<code><img height="40" src="https://github.com/faseelali/faseelali/blob/27dcd1b39798a39cd810ed8a201c525374edae68/Icons/icons8-android-studio.svg"></code> 
+<code><img height="40" src="https://github.com/faseelali/faseelali/blob/27dcd1b39798a39cd810ed8a201c525374edae68/Icons/icons8-python.svg"></code>
+<code><img height="40" src="https://github.com/faseelali/faseelali/blob/27dcd1b39798a39cd810ed8a201c525374edae68/Icons/icons8-pycharm.svg"></code>
 
+</p>
+
+<br/>
+
+<p align="center">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=faseelali&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
+       <img title="🔥 Get streak stats for your profile" alt="Faseel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faseelali&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        
+</p>
+ 
+ ## 📊 My Github Stats
+ 
+ 
+ <br/>
+    <a href="https://github-readme-stats.vercel.app/api?username=faseelali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Faseel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faseelali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=faseelali&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Faseel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faseelali&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
+ 
+  
