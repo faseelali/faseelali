@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [Dice-Roller](https://github.com/faseelali/Dice-Roller)
+- 🔭 I’m currently working on Tip Calculator App
 - 🌱 I’m currently learning kotlin and Android Studio
 - 👯 I’m looking to collaborate on Android App Development
 - 💬 Ask me about anything related Tech 🤖
