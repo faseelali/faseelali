@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Todo App
+- 🔭 I’m currently working on "[Weather Tracker App]"
 - 🌱 I’m currently learning kotlin and Android Studio
 - 👯 I’m looking to collaborate on Android App Development
 - 💬 Ask me about anything related Tech 🤖
