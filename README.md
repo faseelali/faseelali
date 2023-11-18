@@ -1,13 +1,12 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Faseel Ali</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Faseel Ali A M</h1>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [Weather Tracker App](https://github.com/faseelali/Weather-Tracker)
-- 🌱 I’m currently learning kotlin and Android Studio
-- 👯 I’m looking to collaborate on Android App Development
-- 💬 Ask me about anything related Tech 🤖
+- 🔭 I’m currently working on Web Development.
+- 🌱 I’m currently learning kotlin and Android Studio.
+- 👯 I’m looking to collaborate on Web Development.
+- 💬 Ask me about anything related Tech 🤖.
 - 📫 How to reach me: faseelaliam@gmail.com
-- 😄 Pronouns: He/Him
 
 
 <br/> 
@@ -20,30 +19,17 @@
 <code><img height="40" src="https://github.com/faseelali/faseelali/blob/27dcd1b39798a39cd810ed8a201c525374edae68/Icons/icons8-android-studio.svg"></code> 
 <code><img height="40" src="https://github.com/faseelali/faseelali/blob/27dcd1b39798a39cd810ed8a201c525374edae68/Icons/icons8-python.svg"></code>
 <code><img height="40" src="https://github.com/faseelali/faseelali/blob/27dcd1b39798a39cd810ed8a201c525374edae68/Icons/icons8-pycharm.svg"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></code>
 
 </p>
 
-<br/>
+<br/> 
 
-<p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=faseelali&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
-       <img title="🔥 Get streak stats for your profile" alt="Faseel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faseelali&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-        
-</p>
- 
- ## 📊 My Github Stats
- 
- 
- <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=faseelali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Faseel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faseelali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=faseelali&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Faseel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faseelali&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
-<br/>
- 
   ## Connect with me 
   <p align="left">
 
