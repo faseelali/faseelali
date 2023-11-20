@@ -2,8 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning kotlin and Android Studio.
+- 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate on Web Development.
 - 💬 Ask me about anything related Tech 🤖.
 - 📫 How to reach me: faseelaliam@gmail.com
